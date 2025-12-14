@@ -22,3 +22,7 @@ For questions or feedback, contact us at:
 ## Download
 
 Available on the App Store (Coming Soon)
+
+---
+
+© 2025 Arrowkees. All rights reserved.
