@@ -42,3 +42,7 @@ Arrowkeesは、ユーザーの個人情報を収集しません。
 
 ## お問い合わせ
 arrowkees@gmail.com
+
+---
+
+© 2025 Arrowkees. All rights reserved.
