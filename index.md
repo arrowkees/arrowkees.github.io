@@ -7,8 +7,10 @@
 - **Arrow Keys** - Navigate text with arrow keys
 - **Flick Input** - Japanese flick input support
 - **QWERTY** - Standard English keyboard
+- **Swipe Input** - English swipe typing support
 - **Shortcuts** - ⌘+C, ⌘+V, ⌘+Z support
-- **249,000+ words** - Large Japanese dictionary
+- **249,000+ Japanese words** - Large Japanese dictionary
+- **100,000+ English words** - Comprehensive English dictionary (SCOWL)
 
 ## Support / サポート
 
@@ -18,6 +20,7 @@ For questions or feedback, contact us at:
 ## Links / リンク
 
 - [Privacy Policy](privacy.md)
+- [Licenses](LICENSES.md)
 
 ## Download
 
