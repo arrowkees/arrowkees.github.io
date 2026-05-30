@@ -1,6 +1,6 @@
 # Privacy Policy - Arrowkees
 
-Last updated: December 2025
+Last updated: May 2026
 
 ## Information We Collect
 Arrowkees does not collect any personal information.
@@ -32,7 +32,7 @@ arrowkees@gmail.com
 
 # プライバシーポリシー - Arrowkees
 
-最終更新日: 2025年12月
+最終更新日: 2026年5月
 
 ## 収集する情報
 Arrowkeesは、ユーザーの個人情報を収集しません。
@@ -61,4 +61,4 @@ arrowkees@gmail.com
 
 ---
 
-© 2025 Arrowkees. All rights reserved.
+© 2025-2026 Arrowkees. All rights reserved.
