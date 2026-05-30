@@ -28,4 +28,4 @@ Available on the App Store (Coming Soon)
 
 ---
 
-© 2025 Arrowkees. All rights reserved.
+© 2025-2026 Arrowkees. All rights reserved.
